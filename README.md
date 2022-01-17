@@ -5,7 +5,7 @@
 
 ![Profile](https://user-images.githubusercontent.com/53992235/149777950-0a9fb0c0-b738-4834-a0b5-aa2ab7ba18a2.gif)
 
-
+<hr>
 
 ### My Tech Toolbox 🧰 
 
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 
+<hr>
 
 - 🌱 I’m currently learning Web Development, Coding 
 - :computer: My primary coding language: JAVA
@@ -34,12 +35,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: ... -->
 
-<details>
-<summary>📊 Github Stats</summary>
+<hr>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi8055&show_icons=true&theme=gotham" alt="Vaishnavi8055 | Stats" />
 
-
-</details>
+<hr>
 
  ![Visitor Count](https://profile-counter.glitch.me/{Vaishnavi8055}/count.svg)
